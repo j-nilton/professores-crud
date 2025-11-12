@@ -7,8 +7,8 @@ Ele dá continuidade ao desenvolvimento anterior do CRUD de alunos (Student), ex
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/pokedex-app.git
-cd feedNoticias
+git clone https://github.com/j-nilton/professores-crud.git
+cd professores-crud
 ```
 
 ### 2. Instalar dependências
